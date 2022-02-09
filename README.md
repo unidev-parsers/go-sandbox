@@ -1,2 +1,6 @@
 # go-sandbox
-Go parsing sandbox
+
+Parsing sandbox for go
+
+Useful commands:
+  * `make fmt`
