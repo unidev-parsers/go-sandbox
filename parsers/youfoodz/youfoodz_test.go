@@ -1,11 +1,12 @@
 package youfoodz
 
 import (
-	"github.com/unidev-platform/golang-core/xstring"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"testing"
+
+	"github.com/unidev-platform/golang-core/xstring"
 )
 
 func TestYoufoodzMainPageUrls(t *testing.T) {
